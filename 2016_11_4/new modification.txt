@@ -1,0 +1,1 @@
+view - pawning current pawn value

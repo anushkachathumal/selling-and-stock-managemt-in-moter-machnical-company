@@ -1,0 +1,1 @@
+TYPE LMXPRINT.rct > PRN

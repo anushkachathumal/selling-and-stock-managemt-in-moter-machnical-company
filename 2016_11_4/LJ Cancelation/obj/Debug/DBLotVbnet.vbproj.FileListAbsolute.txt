@@ -1,0 +1,998 @@
+D:\Pos System Ver01\bin\Debug\DBLotVbnet.exe.config
+D:\Pos System Ver01\bin\Debug\DBLotVbnet.exe
+D:\Pos System Ver01\bin\Debug\DBLotVbnet.pdb
+D:\Pos System Ver01\bin\Debug\DBLotVbnet.xml
+D:\Pos System Ver01\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\Pos System Ver01\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\Pos System Ver01\obj\Debug\ResolveAssemblyReference.cache
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelSales.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmLegerAccount.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmStockbalance2.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmStockBalanceother.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmStockBalancesp.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmMainCategory.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmNewPriceList.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmsubCategory.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmSuppliers.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmDuplicateInvoice.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmDuplicateReceipt.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmDuplicatespairpart.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmLog.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCreditCollecton.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmExpenses.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmPurchasingVehicle.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmSales.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmTransferNot.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.MDIMain.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.Resources.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmDocPayment.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmDocumentHandover.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmIncome_Insurance.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmInsurancePayment.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmOtherincome.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCreditCollectionsp.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmReturnSuppliers.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCredit.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmDailySummery.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmPurchasing.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmReport.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmSalesReport.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.SPL.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.exe.licenses
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.exe
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.xml
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.pdb
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmEmp.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmPaid.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmEmpSales.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmBTTSales.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmBarcodePrint.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmTransferNoteItem.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+D:\Pos System Ver01\obj\Debug\DBLotVbnet.frmBackup.resources
+D:\Ishara Jewelers\bin\Debug\DBLotVbnet.exe.config
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.exe
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.xml
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.pdb
+D:\Ishara Jewelers\bin\Debug\DBLotVbnet.exe
+D:\Ishara Jewelers\bin\Debug\DBLotVbnet.pdb
+D:\Ishara Jewelers\bin\Debug\DBLotVbnet.xml
+D:\Ishara Jewelers\obj\Debug\ResolveAssemblyReference.cache
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBackup.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelSales.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmLegerAccount.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockbalance2.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockBalanceother.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockBalancesp.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmEmp.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmMainCategory.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmNewPriceList.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmsubCategory.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSuppliers.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDuplicateInvoice.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDuplicateReceipt.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDuplicatespairpart.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmLog.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCreditCollecton.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmExpenses.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasingVehicle.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSales.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmTransferNot.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.MDIMain.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.Resources.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDocPayment.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDocumentHandover.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmIncome_Insurance.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmInsurancePayment.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmOtherincome.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmTransferNoteItem.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBarcodePrint.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBTTSales.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCreditCollectionsp.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPaid.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmReturnSuppliers.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCredit.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDailySummery.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasing.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmReport.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmEmpSales.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSalesReport.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.SPL.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.exe.licenses
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmAdvanceSales.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPawnTransaction.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCollection.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmAPTransaction.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPrevious.resources
+D:\Ishara Jewelers\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+D:\Source Code\VB.net\Ishara Jewelers\bin\Debug\DBLotVbnet.exe.config
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.exe
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.xml
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.pdb
+D:\Source Code\VB.net\Ishara Jewelers\bin\Debug\DBLotVbnet.exe
+D:\Source Code\VB.net\Ishara Jewelers\bin\Debug\DBLotVbnet.pdb
+D:\Source Code\VB.net\Ishara Jewelers\bin\Debug\DBLotVbnet.xml
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\ResolveAssemblyReference.cache
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBackup.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelSales.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmLegerAccount.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockbalance2.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockBalanceother.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockBalancesp.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmEmp.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmMainCategory.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmNewPriceList.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmsubCategory.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSuppliers.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDuplicateInvoice.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDuplicateReceipt.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDuplicatespairpart.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmLog.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCreditCollecton.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmExpenses.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasingVehicle.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSales.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmTransferNot.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.MDIMain.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.Resources.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDocPayment.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDocumentHandover.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmIncome_Insurance.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmInsurancePayment.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmOtherincome.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmTransferNoteItem.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmAdvanceSales.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmAPTransaction.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBarcodePrint.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBTTSales.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCollection.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCreditCollectionsp.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPaid.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPawnTransaction.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmReturnSuppliers.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmCredit.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDailySummery.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasing.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmReport.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmEmpSales.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmPrevious.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSalesReport.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.SPL.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+D:\Source Code\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.exe.licenses
+D:\SourceCode\VB.net\Ishara Jewelers\bin\Debug\DBLotVbnet.exe.config
+D:\SourceCode\VB.net\Ishara Jewelers\obj\Debug\Interop.SpeechLib.dll
+D:\SourceCode\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+D:\SourceCode\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.exe
+D:\SourceCode\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.xml
+D:\SourceCode\VB.net\Ishara Jewelers\obj\Debug\DBLotVbnet.pdb
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\DBLotVbnet.exe.config
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\Interop.SpeechLib.dll
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.exe
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.xml
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.pdb
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\DBLotVbnet.exe
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\DBLotVbnet.pdb
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\DBLotVbnet.xml
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\office.dll
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\office.xml
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+D:\SourceCode\VB.net\Textured Jersy - Commercial\bin\Debug\Interop.SpeechLib.dll
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\ResolveAssemblyReference.cache
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmBackup.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelSales.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmMainCategory.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmSuppliers.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmLog.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.MDIMain.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.Resources.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmCredit.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmDailySummery.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmPurchasing.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmReport.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmEmpSales.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmPrevious.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmSalesReport.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.SPL.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.exe.licenses
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmPOConfermation.resources
+D:\SourceCode\VB.net\Textured Jersy - Commercial\obj\Debug\DBLotVbnet.frmProduction.resources
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.exe.config
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\Interop.SpeechLib.dll
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.exe
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.xml
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.pdb
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.exe
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.pdb
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.xml
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\Interop.SpeechLib.dll
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\ResolveAssemblyReference.cache
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmBackup.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelSales.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmMainCategory.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSuppliers.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmLog.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.MDIMain.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.Resources.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmProduction.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCredit.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDailySummery.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPurchasing.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmReport.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmEmpSales.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPrevious.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSalesReport.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.SPL.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.exe.licenses
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmMachine.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmTypeofDye.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDowntime.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.exe.config
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\Interop.SpeechLib.dll
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.xml
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.pdb
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.exe
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.pdb
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\DBLotVbnet.xml
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\Interop.SpeechLib.dll
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\ResolveAssemblyReference.cache
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmBackup.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelSales.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDowntime.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmMachine.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmMainCategory.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSuppliers.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmTypeofDye.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmLog.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.MDIMain.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.Resources.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmProduction.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmCredit.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDailySummery.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPurchasing.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmReport.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmEmpSales.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmPrevious.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSalesReport.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.SPL.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.exe.licenses
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.exe
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+G:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+G:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmOverall.resources
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\office.dll
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\office.xml
+D:\SourceCode\VB.net\TJL-DNS\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmOverall.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmUpload.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmEditERAL.resources
+D:\SourceCode\VB.net\TJL-DNS\obj\Debug\DBLotVbnet.frmDailyDye_Production.resources
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\DBLotVbnet.exe.config
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\office.dll
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\office.xml
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmBackup.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelCreditReceipt.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelIncomecommise.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelOtherIncome.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelPurchasing.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelReturn.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelSales.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancelStockTransfer.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancel_InsurancePayment.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCancel_Invoice.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDowntime.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmMachine.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmEditERAL.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmMainCategory.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmSuppliers.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmTypeofDye.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmUpload.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmLog.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.MDIMain.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.Resources.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDailyDye_Production.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmOverall.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmProduction.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmCredit.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDailySummery.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmPurchasing.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmEmpSales.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmPrevious.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmSalesReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.SPL.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.exe.licenses
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmQuality.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmUploadMB51.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmAlarm.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.MRSReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmUploadMRS.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDNH.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmADownload.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDailyRefinish.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmViewDH.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDNHReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmSetupTime.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmOEE.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmAlarmReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmFDP.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmAdvanceSearch.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmMaterial_Group.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmOrderAnalysis.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmUploadPlaning.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmPlnReport.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmUpload_Dayplane.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmBlockMT.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmPlnComm.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDep.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmDelivery.resources
+E:\Source Code Dot Net\TJ_DNF\obj\Debug\DBLotVbnet.frmSample.resources
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\Microsoft.Ink.dll
+E:\Source Code Dot Net\TJ_DNF\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Source Code Dot Net\GIS 2013\bin\Debug\DBLotVbnet.exe.config
+E:\Source Code Dot Net\GIS 2013\obj\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\GIS 2013\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmBackup.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmConfirm.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPrint_BC.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPrint_Request.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmView.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmAlarmReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmOrderAnalysis.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.MRSReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDowntime.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmCancelKnitting.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDowntimereport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKnitting.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKpro.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmMCDown.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmRSDown.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmSD.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmLog.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmReport_Barcode.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.MDIMain.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.Resources.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDailyDye_Production.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmSpairpartSales.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmBlockMT.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDep.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPlnComm.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmCredit.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDailySummery.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPurchasing.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmCreateUser.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDepartment.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKnitter.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKnittingMC.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmSetupCPI.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmTecoProcess.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.AuditReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmCPI.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmCPIChart.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmCutoff.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDuplicateLane.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDuplicate_Barcode.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmFeedback.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmFultRate.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmInspect.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKnittingProduction.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKnittingReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmKnittingReportShift.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmProductionReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmProduction_Examinner.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmProduction_MC.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmQReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmQualityReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmQurantine.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmQurantineGrf.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmColor.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmFLRequest.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmGRN.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmSAPTransfer.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmEmpSales.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmPrevious.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmSalesReport.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.SPL.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.exe.licenses
+E:\Source Code Dot Net\GIS 2013\bin\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\GIS 2013\bin\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\GIS 2013\bin\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Microsoft.Ink.dll
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\Source Code Dot Net\GIS 2013\bin\Debug\office.dll
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Source Code Dot Net\GIS 2013\bin\Debug\office.xml
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Source Code Dot Net\GIS 2013\bin\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmRollwt.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmReprocess.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmProduction.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmTeco.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmExaminer_Down.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmExaminner_Eff.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmMachine_Downtime.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmQualityWise.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmFinalRollConf.resources
+E:\Source Code Dot Net\GIS 2013\obj\Debug\DBLotVbnet.frmExaminnerEff.resources
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\DBLotVbnet.exe.config
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Microsoft.Ink.dll
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\office.dll
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\office.xml
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Source Code Dot Net\TJL_DNF New\bin\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmBackup.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmAlarmReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmOrderAnalysis.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.MRSReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmLog.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmReport_Barcode.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.MDIMain.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.Resources.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDailyDye_Production.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmBlockMT.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDep.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPlnComm.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmCredit.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDailySummery.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPurchasing.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmCreateUser.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDepartment.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmKnitter.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmKnittingMC.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmSetupCPI.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmTecoProcess.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.AuditReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmCPI.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmCPIChart.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmCutoff.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDuplicateLane.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDuplicate_Barcode.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmExaminer_Down.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmExaminnerEff.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmExaminner_Eff.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmFeedback.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmFultRate.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmInspect.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmKnittingProduction.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmKnittingReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmKnittingReportShift.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmMachine_Downtime.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmProduction.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmProductionReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmProduction_Examinner.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmProduction_MC.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmQReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmQualityReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmQualityWise.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmQurantine.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmQurantineGrf.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmReprocess.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmRollwt.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmTeco.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmEmpSales.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPrevious.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmSalesReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.SPL.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmFinalRollConf.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.exe.licenses
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmMainCategory.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmSuppliers.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmMachine.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmTypeofDye.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmQuality.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDowntime.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmEditERAL.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmUpload.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmUploadMB51.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmAlarm.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmUploadMRS.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmUpload_ZDCA_PURCHASE.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDCA_CONSUMPTION.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmFDP.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmMaterial_Group.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmUploadPlaning.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDelivery.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmUpload_Dayplane.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmOverall.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDailyRefinish.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDNH.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmADownload.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmAdvanceSearch.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDNFProduction.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmDNHReport.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmEngineering.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmOEE.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPigment.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmSample.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmSetupTime.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmViewDH.resources
+E:\Source Code Dot Net\TJL_DNF New\obj\Debug\DBLotVbnet.frmPurchasing_Report.resources
+E:\Source Code Dot Net\LJ International\bin\Debug\DBLotVbnet.exe.config
+E:\Source Code Dot Net\LJ International\obj\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\LJ International\bin\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\LJ International\bin\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\LJ International\bin\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\LJ International\bin\Debug\Microsoft.Ink.dll
+E:\Source Code Dot Net\LJ International\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source Code Dot Net\LJ International\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\Source Code Dot Net\LJ International\bin\Debug\office.dll
+E:\Source Code Dot Net\LJ International\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Source Code Dot Net\LJ International\bin\Debug\office.xml
+E:\Source Code Dot Net\LJ International\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+E:\Source Code Dot Net\LJ International\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Source Code Dot Net\LJ International\bin\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\LJ International\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmBackup.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmAlarmReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmOrderAnalysis.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPurchasing_Report.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.MRSReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmAlarm.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDCA_CONSUMPTION.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmFDP.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmMaterial_Group.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmUploadMB51.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmUploadMRS.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmUpload_ZDCA_PURCHASE.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDowntime.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmEditERAL.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmMachine.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmMainCategory.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmQuality.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSuppliers.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmTypeofDye.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmUpload.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmADownload.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmAdvanceSearch.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDailyRefinish.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDNFProduction.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDNH.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDNHReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmEngineering.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmOEE.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmOverall.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPigment.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSample.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSetupTime.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmViewDH.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLog.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmReport_Barcode.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmCustomer.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmMMaster.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSupplier_Master.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.MDIMain.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.Resources.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDailyDye_Production.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmBlockMT.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDep.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPlnComm.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDelivery.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmUploadPlaning.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmUpload_Dayplane.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmCredit.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDailySummery.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPurchasing.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmCreateUser.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDepartment.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmKnitter.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmKnittingMC.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSetupCPI.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmTecoProcess.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.AuditReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmCPI.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmCPIChart.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmCutoff.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDuplicateLane.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDuplicate_Barcode.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmExaminer_Down.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmExaminnerEff.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmExaminner_Eff.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmFeedback.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmFultRate.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmInspect.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmKnittingProduction.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmKnittingReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmKnittingReportShift.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmMachine_Downtime.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmProduction.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmProductionReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmProduction_Examinner.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmProduction_MC.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmQReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmQualityReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmQualityWise.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmQurantine.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmQurantineGrf.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmReprocess.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmRollwt.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmTeco.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmEmpSales.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPrevious.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSalesReport.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.SPL.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmFinalRollConf.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.exe.licenses
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmBOffice.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmFactory.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLeger_Acc.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPI.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmInvoiceLJ.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmMakeaPayment.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmReceive_Payment.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmNewLog.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLabDip.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLab_DipApp.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPI_Cancelation.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLJSR.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmEMP.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPI_Confirmation.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmByuer.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmPayment_ReceiveInvoice.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmSample_Payment.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLeave_Form.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmLeave_Approve.resources
+E:\Source Code Dot Net\LJ International\obj\Debug\DBLotVbnet.frmStaff_Sallary.resources
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\DBLotVbnet.exe.config
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.vbproj.ResolveComReference.cache
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\DBLotVbnet.exe
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\DBLotVbnet.pdb
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\DBLotVbnet.xml
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Microsoft.Ink.dll
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Interop.SpeechLib.dll
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\ResolveAssemblyReference.cache
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmBackup.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmAlarmReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmOrderAnalysis.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPurchasing_Report.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.MRSReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmAlarm.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDCA_CONSUMPTION.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmFDP.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmMaterial_Group.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUploadMB51.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUploadMRS.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUpload_ZDCA_PURCHASE.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDowntime.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmEditERAL.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmMachine.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmMainCategory.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmQuality.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSuppliers.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmTypeofDye.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUpload.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmADownload.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmAdvanceSearch.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDailyDownTime.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDailyRefinish.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDNFProduction.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDNH.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDNHReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmEngineering.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmOEE.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmOverall.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPigment.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSample.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSetupTime.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmViewDH.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLog.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmReport_Barcode.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPI_Cancelation.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmBOffice.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmByuer.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmCustomer.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmEMP.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmFactory.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLeger_Acc.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmMMaster.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmNewLog.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmStaff_Sallary.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSupplier_Master.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmInvoiceLJ.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLabDip.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLab_DipApp.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLeave_Approve.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLeave_Form.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLJSR.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmMakeaPayment.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPayment_ReceiveInvoice.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPI.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPI_Confirmation.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmReceive_Payment.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSample_Payment.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.MDIMain.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.Resources.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDailyDye_Production.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPurchasingSpairpart.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmBlockMT.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDep.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPlnComm.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDelivery.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUploadPlaning.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUpload_Dayplane.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmCredit.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDailySummery.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmExpencesReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPurchasing.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPurchasOrder.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmCreateUser.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDepartment.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmKnitter.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmKnittingMC.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSetupCPI.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmTecoProcess.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.AuditReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmCPI.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmCPIChart.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmCutoff.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDuplicateLane.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDuplicate_Barcode.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmExaminer_Down.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmExaminnerEff.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmExaminner_Eff.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmFeedback.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmFultRate.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmInspect.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmKnittingProduction.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmKnittingReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmKnittingReportShift.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmMachine_Downtime.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmProduction.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmProductionReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmProduction_Examinner.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmProduction_MC.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmQReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmQualityReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmQualityWise.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmQurantine.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmQurantineGrf.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmReprocess.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmRollwt.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmTeco.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmAdvanceView.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmBalanceAmount.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDetailPawn.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmEmpSales.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPrevious.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSalesReport.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmSpairpartrpt.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmTransferNotRpt.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.SPL.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmStockBalanceByke.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmFinalRollConf.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.vbproj.GenerateResource.Cache
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.exe.licenses
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDelivary_Request.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDelivary_Quatation.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\Interop.MSMAPI.dll
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Interop.MSMAPI.dll
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPrint_Delivary.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDelivary_Revision_Merch.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDelivery_Revision_Pln.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDel_Cus.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmOrder_Status_Report.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmPending_Orders.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmOTD.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDealy.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmOTD_Analysis.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmUpdate_Status.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDelivary_Forcust.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmDealy_Reason.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmLIB.resources
+E:\Source Code Dot Net\tjlPlanning New\obj\Debug\DBLotVbnet.frmProvsActual.resources
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+E:\Source Code Dot Net\tjlPlanning New\bin\Debug\Microsoft.Office.Interop.Outlook.xml

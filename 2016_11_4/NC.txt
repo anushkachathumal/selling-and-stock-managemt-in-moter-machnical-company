@@ -1,0 +1,164 @@
+1509592	Aw cus App	Aw cus App
+1510151	Aw cus App	Aw cus App
+1511163	Aw cus App	Aw cus App
+1511164	Aw cus App	Aw cus App
+1511165	Aw cus App	Aw cus App
+1511173	Aw cus App	Aw cus App
+1511174	Aw cus App	Aw cus App
+1511175	Aw cus App	Aw cus App
+1511188	Aw cus App	Aw cus App
+1511189	Aw cus App	Aw cus App
+1511418	Aw cus App	Aw cus App
+1511419	Aw cus App	Aw cus App
+1511420	Aw cus App	Aw cus App
+1511703	Aw cus App	Aw cus App
+1511704	Aw cus App	Aw cus App
+1511705	Aw cus App	Aw cus App
+1511706	Aw cus App	Aw cus App
+1511707	Aw cus App	Aw cus App
+1511708	Aw cus App	Aw cus App
+1511709	Aw cus App	Aw cus App
+1511710	Aw cus App	Aw cus App
+1511711	Aw cus App	Aw cus App
+1512282	Aw cus App	Aw cus App
+1512579	Aw cus App	Aw cus App
+1508529DP	Aw cus App	Aw cus App
+1509470DD	Aw cus App	Aw cus App
+1509492QPP	Aw cus App	Aw cus App
+1510825DP	Aw cus App	Aw cus App
+1510826DP	Aw cus App	Aw cus App
+1510827DP	Aw cus App	Aw cus App
+1510828DP	Aw cus App	Aw cus App
+1501228CODZ	Aw OD recipe	striped
+1509667QODD	Aw OD recipe	striped
+1511256ODD	Aw OD recipe	striped
+1511374ODD	Aw OD recipe	striped
+1469187	Aw orders	Aw orders
+1491951	Aw orders	Aw orders
+1499365	Aw orders	Aw orders
+1503139	Aw orders	Aw orders
+1504981	Aw orders	Aw orders
+1507818	Aw orders	Aw orders
+1425822ODD2	Aw orders	Aw orders
+1455778ODD	Aw orders	Aw orders
+1466820ZF	Aw orders	Aw orders
+1474984COF	Aw orders	Aw orders
+1487371ODD	Aw orders	Aw orders
+1488319QODD1	Aw orders	Aw orders
+1488661QODD	Aw orders	Aw orders
+1488955FP	Aw orders	Aw orders
+1496708ODF	Aw orders	Aw orders
+1498104QODF	Aw orders	Aw orders
+1498990DP	Aw orders	Aw orders
+1502434DD	Aw orders	Aw orders
+1506399QODD	Aw orders	Aw orders
+1506818QDP	Aw orders	Aw orders
+1507395QOD	Aw orders	Aw orders
+1508837QFF1	Aw orders	Aw orders
+1508941QODD	Aw orders	Aw orders
+1512596	Aw Pigment	Aw Pigment
+1512597	Aw Pigment	Aw Pigment
+1508721DP	Aw Pigment	Aw Pigment
+1510095DP	Aw Pigment	Aw Pigment
+1510152QDP	Aw Pigment	Aw Pigment
+1510503DP	Aw Pigment	Aw Pigment
+1510562DP	Aw Pigment	Aw Pigment
+1510565DP1	Aw Pigment	Aw Pigment
+1510741DP	Aw Pigment	Aw Pigment
+1511146DP	Aw Pigment	Aw Pigment
+1511147DP	Aw Pigment	Aw Pigment
+1511148DP	Aw Pigment	Aw Pigment
+1511391	Aw Pilot	Aw Pilot
+1511421	Aw Pilot	Aw Pilot
+1511422	Aw Pilot	Aw Pilot
+1511423	Aw Pilot	Aw Pilot
+1512118	Aw Pilot	Aw Pilot
+1512119	Aw Pilot	Aw Pilot
+1512120	Aw Pilot	Aw Pilot
+1512121	Aw Pilot	Aw Pilot
+1512122	Aw Pilot	Aw Pilot
+1512123	Aw Pilot	Aw Pilot
+1512124	Aw Pilot	Aw Pilot
+1512125	Aw Pilot	Aw Pilot
+1512126	Aw Pilot	Aw Pilot
+1512127	Aw Pilot	Aw Pilot
+1512299	Aw Pilot	Aw Pilot
+1512308	Aw Pilot	Aw Pilot
+1512424	Aw Pilot	Aw Pilot
+1512570	Aw Pilot	Aw Pilot
+1512987	Aw Pilot	Aw Pilot
+1513194	Aw Pilot	Aw Pilot
+1513269	Aw Pilot	Aw Pilot
+1510307DF1	Aw Pilot	Aw Pilot
+1510311DF1	Aw Pilot	Aw Pilot
+1511547	Aw Shade comments	Aw Shade comments
+1511549	Aw Shade comments	Aw Shade comments
+1511550	Aw Shade comments	Aw Shade comments
+1511978	Aw Shade comments	Aw Shade comments
+1511582DP	Aw Shade comments	Aw Shade comments
+1502917QFF2	Bulk Batches to be Reshedule	1/2 bleach + 35%UV
+1500368CFF	Bulk Batches to be Reshedule	1/4 bleach + 25%UV
+1507436ODD1	Bulk Batches to be Reshedule	Need to give Fixing Removel Wash & Add ECO
+1462345QODP	Bulk Batches to be Reshedule	Need to OD to Black(R-36309)
+1484323QQP	Bulk Batches to be Reshedule	Need to Redye
+1486407ODP2	Bulk Batches to be Reshedule	Need to Redye
+1486798QODO2	Bulk Batches to be Reshedule	Need to Redye
+1489706QODD1	Bulk Batches to be Reshedule	Need to Redye
+1504723DD	Bulk Batches to be Reshedule	Need to Redye
+1506221DD	Bulk Batches to be Reshedule	Need to Redye
+1506259QODD1	Bulk Batches to be Reshedule	Need to Redye
+1508781DD1	Bulk Batches to be Reshedule	Need to Redye
+1509407DD	Bulk Batches to be Reshedule	Need to Redye
+1512569DD	Bulk Batches to be Reshedule	Need to Redye
+1473972	Bulk Batches to be Reshedule	Need to strip
+1489803QODO4	Bulk Batches to be Reshedule	Need to strip
+1484581QODM	Bulk Batches to be Reshedule	Need to strip/Over dye to R-31470
+1490475QDR3	Bulk Batches to be Reshedule	Need to stripe
+1507926ODD	Bulk Batches to be Reshedule	Need to stripe
+1507930ODD	Bulk Batches to be Reshedule	Need to stripe
+1508252QDR1	Bulk Batches to be Reshedule	Need to stripe
+1510524QFF	Bulk Batches to be Reshedule	Need to stripe
+1499069QODD	Bulk Batches to be Reshedule	Over dye black
+1472425QODP	Bulk Batches to be Reshedule	Over dye to R-31699
+1507509QODD	Bulk Batches to be Reshedule	striped Od To black  (R-36969)
+1509434ODD1	Bulk Batches to be Reshedule	striped Od to Black (R-31660)
+1494402QODF	Bulk Batches to be Reshedule	Striped to be od to Black
+1501649ODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1505708ODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1505709ODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1505710ODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1505711ODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1505712ODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1510176QODD	Bulk Batches to be Reshedule	Striped to be od to Black
+1510745	Down Grade	Down Grade
+1511038	Down Grade	Down Grade
+1456152ODD1	Down Grade	Down Grade
+1470889ODD1	Down Grade	Down Grade
+1474291QOF7	Down Grade	Down Grade
+1475931CODO1	Down Grade	Down Grade
+1484831QODD	Down Grade	Down Grade
+1487825QODO2	Down Grade	Down Grade
+1488886ODO3	Down Grade	Down Grade
+1495639QODF	Down Grade	Down Grade
+1496639QFF3	Down Grade	Down Grade
+1499692ODD	Down Grade	Down Grade
+1500355ODD2	Down Grade	Down Grade
+1501661QODD	Down Grade	Down Grade
+1502768QDF	Down Grade	Down Grade
+1504038QZF2	Down Grade	Down Grade
+1504526DD	Down Grade	Down Grade
+1505348QFF	Down Grade	Down Grade
+1505632ODD	Down Grade	Down Grade
+1506076QFF1	Down Grade	Down Grade
+1506735QFF	Down Grade	Down Grade
+1507401QDD	Down Grade	Down Grade
+1507719DD	Down Grade	Down Grade
+1512120	held due to dyeing issues	Dye marks
+1512534	held due to dyeing issues	Dye marks
+1512415	Off shade	Off shade
+1512534	Off shade	Off shade
+1513111	Off shade	Off shade
+1509368QDD	Off shade	Off shade
+1510784	Oil marks	Oil marks
+1510785	Oil marks	Oil marks
+1512371	Oil marks	Oil marks

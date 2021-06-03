@@ -1,0 +1,7 @@
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.dll
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\bin\Debug\SqlServerBackupRestore.pdb
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\bin\Debug\Microsoft.SqlServer.BatchParser.dll
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\obj\Debug\ResolveAssemblyReference.cache
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.dll
+D:\Kumari Furniture\SqlServerBackupRestore\SqlServerBackupRestore\obj\Debug\SqlServerBackupRestore.pdb

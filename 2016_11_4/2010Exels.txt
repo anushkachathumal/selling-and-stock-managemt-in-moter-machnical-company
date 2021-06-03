@@ -1,0 +1,80 @@
+Public Class Form1
+
+    Dim APP As New Excel.Application
+
+ 
+
+    Dim worksheet As Excel.Worksheet
+
+ 
+
+    Dim workbook As Excel.Workbook
+
+ 
+
+To get value from Excel file to TextBox:
+
+Then double click on Button1 and the following highlighted code:
+
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+
+        workbook = APP.Workbooks.Open("your path\Test.xls")
+
+ 
+
+        worksheet = workbook.Sheets.Item(1)
+
+'Read the value from Cell A1, B1
+
+ 
+
+        TextBox1.Text = worksheet.Cells(1, 1).Value
+
+ 
+
+        TextBox2.Text = worksheet.Cells(1, 2).Value
+
+ 
+
+        APP.ActiveWorkbook.Close(False, "your path\Test.xls")
+
+ 
+
+        APP.Quit()
+
+ 
+
+    End Sub
+
+To wirte to excel sheet from a text box:
+
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+
+        workbook = APP.Workbooks.Open("C:\Documents and Settings\Jimmy!!\Desktop\Test.xls")
+
+ 
+
+        worksheet = workbook.Sheets.Item(1)
+
+ 
+
+        worksheet.Cells(1, 1).Value = TextBox1.Text
+
+ 
+
+        worksheet.Cells(1, 2).Value = TextBox2.Text
+
+ 
+
+        workbook.Close(SaveChanges:=True)
+
+ 
+
+ 
+
+        APP.Quit()
+
+ 
+
+    End Sub
+

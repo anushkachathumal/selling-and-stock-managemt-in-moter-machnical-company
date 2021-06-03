@@ -1,0 +1,58 @@
+Batch No	3/26/2015	Possible Delivary Date	Reason	LIB dep
+1586087	Not recive (aw Finishing)	3/26/2015	Shade issue 	Dyeing 
+1582271	Not recive (aw Knitting)	3/26/2015	Shade issue 	Dyeing 
+1581763	01 st bulk app on 25/03	3/26/2015	Shade issue 	Dyeing 
+1585791	Aw Customer App	3/26/2015	Shade issue 	Dyeing 
+1584551	Move to stock on 24-03 (25/03	3/26/2015	Shade issue 	Dyeing 
+1585951	Move to stock on 24-03 (25/03	3/26/2015	Shade issue 	Dyeing 
+1586073	Move to stock on 24-03 (25/03	3/26/2015	Shade issue 	Dyeing 
+1578049	Move to stock on 24-03 (25/03	3/26/2015	Shade issue 	Dyeing 
+1586088	Move to stock on 24-03 (25/03			
+1584410	Move to stock on 24-03 (25/03			
+1583983	Move to stock on 24-03 (25/03			
+1585190	Move to stock on 24-03 (25/03			
+1586071	Move to stock on 24-03 (25/03			
+1582935	Move to stock on 26/03			
+1583842	Move to stock on 26/03			
+1586394	Move to stock on 26/03			
+1583128B	Move to stock on 26/03			
+1582369	Move to stock on 26/03			
+1586404	Move to stock on 26/03			
+1586403	Move to stock on 26/03			
+1583054	Move to stock on 26/03			
+1586455	Move to stock on 26/03			
+1585432	Move to stock on 26/03			
+1583350	Move to stock on 26/03			
+1585418	Move to stock on 26/03			
+1582838B	Move to stock on 26/03			
+1582838B1	Move to stock on 26/03			
+1584257	Move to stock on 26/03			
+1585916	Customer app27/03/2015			
+1585061	Move to stock on 26/03			
+1574977C	not rec-Aw Finishing			
+1585915	not rec-Aw Finishing			
+1583843	Move to stock on 26/03			
+1584034	Move to stock on 26/03			
+1584423	not rec-Aw Finishing			
+1584114	Move to stock on 26/03			
+1585633	Move to stock on 26/03			
+1586460	Move to stock on 26/03			
+1583400	Testing & Sub 2D			
+1583073	Move to stock on 26/03			
+1584109	Move to stock on 26/03			
+1585630	Move to stock on 26/03			
+1584191	Move to stock on 26/03			
+1585799	Move to stock on 26/03			
+1584603	Move to stock on 26/03			
+1584611B	Move to stock on 26/03			
+1582424	Pending Submit9Aw M/Batch)			
+1584729	Reject			
+1585189	Move to stock on 26/03			
+1583648	Move to stock on 26/03			
+1582264	Customer app26/03/2015			
+1583672	Move to stock on 26/03			
+1583673	Move to stock on 26/03			
+1586458	Move to stock on 26/03			
+1581763	Customer app26/03/2015			
+1586461	Move to stock on 26/03			
+				
